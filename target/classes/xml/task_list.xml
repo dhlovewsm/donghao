@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>         /*任务书列表*/
+    <task>
+        <taskId>103</taskId>    /*任务编号*/
+        <taskTitle>Linux命令学习与基本操作</taskTitle>   /*题目名称*/
+        <taskTime>2019-02-18</taskTime> /*布置日期*/
+    </task>
+    <task>
+        <taskId>104</taskId>
+        <taskTitle>Java编程规范</taskTitle>
+        <taskTime>2019-02-19</taskTime>
+    </task>
+    <task>
+        <taskId>105</taskId>
+        <taskTitle>MYSQL基本操作</taskTitle>
+        <taskTime>2019-02-27</taskTime>
+    </task>
+</list>

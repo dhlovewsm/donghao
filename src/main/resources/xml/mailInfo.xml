@@ -1,0 +1,22 @@
+<list>
+    <mail>
+        <mailTitle>合伙人培训部通知</mailTitle>
+        <mailText>您的作业暂时未提交，请按时提交作业</mailText>
+    </mail>
+    <mail>
+        <mailTitle>合伙人培训部通知</mailTitle>
+        <mailText>您的作业已提交，感谢您的配合！</mailText>
+    </mail>
+    <mail>
+        <mailTitle>合伙人培训部通知</mailTitle>
+        <mailText>您的作业未能及时提交，很遗憾！</mailText>
+    </mail>
+    <mail>
+        <mailTitle>合伙人培训部作业布置通知</mailTitle>
+        <mailText></mailText>
+    </mail>
+    <mail>
+        <mailTitle>合伙人培训部作业提交结果</mailTitle>
+        <mailText></mailText>
+    </mail>
+</list>
